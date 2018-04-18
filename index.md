@@ -53,8 +53,8 @@ The following version is equivalent to the one in the Handbook.
 To be sure that CEQ Stata Package is up-to-date, run from Stata prompt ``ssc install ceq, replace`` 
 
 **Where are the latest versions of Master Workbook templates?**
-![Section ABC](https://www.dropbox.com/sh/0yby57o5tg68qtu/AABefjg3EG2kWel1YwLk7EZ0a?dl=0)
-![Section D - Linking](https://www.dropbox.com/sh/i1rwkcbjy88li60/AAAnKpqvY8MAZnQhldfVHtpVa?dl=0)
-![Section E](https://www.dropbox.com/sh/5m763b5hbrwbarb/AABBKnSSRDbWUWzVmAlVcaWaa?dl=0)
+- ![Section ABC](https://www.dropbox.com/sh/0yby57o5tg68qtu/AABefjg3EG2kWel1YwLk7EZ0a?dl=0)
+- ![Section D - Linking](https://www.dropbox.com/sh/i1rwkcbjy88li60/AAAnKpqvY8MAZnQhldfVHtpVa?dl=0)
+- ![Section E](https://www.dropbox.com/sh/5m763b5hbrwbarb/AABBKnSSRDbWUWzVmAlVcaWaa?dl=0)
 
 © 2018 GitHub, Inc.
