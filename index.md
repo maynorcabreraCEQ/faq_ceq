@@ -42,7 +42,8 @@ include tax-evaders?**
 Yes, it should include all individuals who should pay taxes according to the tax code.
 
 **How should be taken the parenthesis of the Paasche variation
-written in the Handbook**  $$PV=q_{t} *P_{t}/(1+r)*abs(r)$$
+written in the Handbook**  
+![first equation](http://latex.codecogs.com/gif.download?PV%3Dq_%7Bt%7D*P_%7Bt%7D/%281+r%29*abs%28r%29)
 
 This is version is equivalent to the one in the Handbook.
 
