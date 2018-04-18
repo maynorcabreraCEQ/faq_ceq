@@ -47,7 +47,7 @@ written in the Handbook**
 
 The following version is equivalent to the one in the Handbook.
 
-![second equation](http://latex.codecogs.com/gif.download?PV%3D%5Cleft%20%28%20%5Cfrac%7Bq_%7Bt%7D*P_%7Bt%7D%7D%7B1+r%7D%20%5Cright%20%29*abs%28r%29)
+![2e](http://latex.codecogs.com/gif.download?PV%3D%5Cleft%20%28%20%5Cfrac%7Bq_%7Bt%7D*P_%7Bt%7D%7D%7B1+r%7D%20%5Cright%20%29*abs%28r%29)
 
 **How to update CEQ Stata Package?**
 To be sure that CEQ Stata Package is up-to-date, run from Stata prompt ``ssc install ceq, replace`` 
