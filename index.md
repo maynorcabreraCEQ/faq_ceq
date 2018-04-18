@@ -45,9 +45,9 @@ Yes, it should include all individuals who should pay taxes according to the tax
 written in the Handbook**  
 ![first equation](http://latex.codecogs.com/gif.download?PV%3Dq_%7Bt%7D*P_%7Bt%7D/%281+r%29*abs%28r%29)
 
-This is version is equivalent to the one in the Handbook.
+The following version is equivalent to the one in the Handbook.
 
-$$PV=(\frac{q_{t}*P_{t}}{1 + r}\right)*abs(r)$$
+![second equation](http://latex.codecogs.com/gif.download?PV%3D%5Cleft%20%28%20%5Cfrac%7Bq_%7Bt%7D*P_%7Bt%7D%7D%7B1+r%7D%20%5Cright%20%29*abs%28r%29)
 
 **How to update CEQ Stata Package?**
 To be sure that CEQ Stata Package is up-to-date, run from Stata prompt ``ssc install ceq, replace`` 
